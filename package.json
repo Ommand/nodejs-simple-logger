@@ -1,6 +1,6 @@
 {
   "name": "smpl-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple NodeJS logger!",
   "main": "index.js",
   "author": "Ommand",
