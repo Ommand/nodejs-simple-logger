@@ -1,0 +1,11 @@
+{
+  "name": "simple-logger",
+  "version": "1.0.0",
+  "description": "A simple NodeJS logger!",
+  "main": "index.js",
+  "author": "Ommand",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.2"
+  }
+}
