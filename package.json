@@ -1,11 +1,15 @@
 {
-  "name": "simple-logger",
-  "version": "1.0.0",
+  "name": "smpl-logger",
+  "version": "1.0.1",
   "description": "A simple NodeJS logger!",
   "main": "index.js",
   "author": "Ommand",
   "license": "ISC",
   "dependencies": {
     "dateformat": "^3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ommand/nodejs-simple-logger"
   }
 }
